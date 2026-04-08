@@ -15,8 +15,9 @@ public class Program {
     System.out.println("Menu");
     System.out.println("1 / Boas Vindas");
     System.out.println("2 / Elogio");
-    System.out.println("--help / Ajuda");
     System.out.println("3 / sair");
+    System.out.println("");
+    System.out.println("Se precisar de ajuda digite --help");
     
     String optionvoid = Block.nextLine();
     
@@ -40,4 +41,4 @@ public class Program {
     }
     }
     }
-  }
+}
