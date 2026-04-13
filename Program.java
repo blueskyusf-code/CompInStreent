@@ -1,10 +1,5 @@
-/*
-* Nome Do Programa: CompInStreent
-* Versão: 1.0 (Release)
-* Criador Do Programa: Bluesky
-* Copyright: Ativo
-* Descrição: Uma Companhia ao usuário, totalmemte feito em java desenvolvido em Goiânia-Go, Brasil, em 8 de abril com a missão de aprender como o java funciona, Ele dá bom dia e até elogia!
-*/
+package com.kkz.compinstreent;
+
 import java.util.Scanner;
 
 public class Program {
